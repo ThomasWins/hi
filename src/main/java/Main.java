@@ -9,8 +9,8 @@ public class Main {
 
     // Uncomment this block to pass the first stage
     //
-    // ServerSocket serverSocket = null;
-    // Socket clientSocket = null;
+    ServerSocket serverSocket = null;
+    Socket clientSocket = null;
     //
     // try {
     //   serverSocket = new ServerSocket(4221);
